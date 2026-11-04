@@ -2,7 +2,6 @@
 # 📘 Assignment: Jogo da Forca
 
 ## 🎯 Objective
-
 Construa um jogo da Forca em Python para praticar manipulação de strings, loops, condicionais, seleção aleatória e entrada de dados do usuário.
 
 ## 📝 Tasks
