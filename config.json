@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "persistencia-sqlite",
+      "title": "Persistência de Dados com SQLite",
+      "description": "Armazene e consulte dados com SQL usando SQLite e Python.",
+      "path": "assignments/persistencia-sqlite",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
